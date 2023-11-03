@@ -1,0 +1,12 @@
+#username{
+text-align:center;
+    background-color: rgb(58, 49, 49);
+    color: #4fe22a;
+    font-size: 50px;
+    font-style: italic;
+
+}
+.email{
+    color: #310eaf;
+    justify-content: center;
+}
